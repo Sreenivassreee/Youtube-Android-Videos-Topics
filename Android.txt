@@ -20,9 +20,31 @@ Video :- 2
 2.3 => Run Application on RealDevice[X]
 
 
+.........................................................................
+
+Video :- 3
+
+3.1 Limitations in android Emulator comapered to Real device [x]
+3.2 Problems in developing apps by using Emulator [X]
+
+Emulator:-
+
+1. No support for Placing or receiving actual phone calls 
+2. No support for USB connections
+3. No support for device-attached headphones
+4. No support for determining network connected state
+5. No support for determining battery charge level and AC charging state
+6. No support for determining SD card insert/eject
+7. No support for Bluetooth
+8. No support for camera/video capture (input)
+9. No support for Multitouch
+
+..........................................................................
 
 
- 
+
+
+
 
 
 
