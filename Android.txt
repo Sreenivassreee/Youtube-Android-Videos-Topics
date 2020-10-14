@@ -19,6 +19,7 @@ Video :- 2
 2.2 => Run Application on Emulator[X]
 2.3 => Run Application on RealDevice[X]
 
+Video Link :- https://youtu.be/M-wCjvhrD4s
 
 .........................................................................
 
@@ -39,6 +40,8 @@ Emulator:-
 8. No support for camera/video capture (input)
 9. No support for Multitouch
 
+
+Video Link :- https://youtu.be/7r2-qPgDDpk
 ..........................................................................
 
 Video :- 4
