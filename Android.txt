@@ -48,6 +48,14 @@ Video :- 4
 
 4.1 Android Poject Structure [X]
 
+video link :- https://www.youtube.com/watch?v=mqG1SdxzCsw
+
+
+Video :- 5
+
+5.1 How android Application works []
+
+video link :- https://www.youtube.com/watch?v=Mv1ozpFsg2c
  
 
 
